@@ -408,6 +408,7 @@ form {
   margin-top: 40px;
   color: white;
   padding: 10%;
+  max-width: 400px;
 }
 
 input,
@@ -427,6 +428,7 @@ textarea {
 
 .submit {
   text-align: center;
+  width: 30%;
   
 }
 .link {
