@@ -408,7 +408,7 @@ form {
   margin-top: 40px;
   color: white;
   padding: 10%;
-  max-width: 400px;
+  width: 400px;
 }
 
 input,
@@ -567,6 +567,11 @@ footer nav ul {
   .sectionC {
     height: auto;
   }
+  
+  .form {
+    width: 300px;
+  }
+  
   .sectionC .about,
   footer ul {
     display: grid;
